@@ -1,0 +1,16 @@
+V1.0.0 - 24 Mar 2017 [initial Release]
+
+V1.0.1 - 01 May 2017 - Bug Fixes
+- fixed red background for sidebar without image
+- fixed Widges -> Widgets typo
+- fixed Extended Tables titles alignment
+- fixed issue with Burger menu on mobile/tablet in Login/Register/Lock/Pricing pages
+- fix double scroll problems on Windows
+- added Google Maps API Key for Demo presentation
+
+What's next?
+MD Pro Angular CLI V1.1.0 - End of May 2017 Release
+- rebuild whole product for Angular CLI with Angular Components from Typescript
+- replace jQuery libraries with Angular similar versions
+- move Off Canvas Menu generation from jQuery to Angular
+- added 2 layouts: for Dashboard and for login/register/lock/pricing pages
